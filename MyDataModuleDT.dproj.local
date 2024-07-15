@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/06 19:56:00.000.629,=rtl.dcp</Transaction>
+    <Transaction>2024/07/06 19:56:33.000.770,D:\Software\Tests\IOTA\Soft4You.IOTA.dproj=C:\Users\Carlo\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/07/07 11:29:21.000.647,=D:\Software\Tests\IOTA\iORM.Components.InterfacedDataModule.pas</Transaction>
+    <Transaction>2024/07/07 11:29:21.000.694,=D:\Software\Tests\IOTA\iORM.MVVM.ViewModel.pas</Transaction>
+    <Transaction>2024/07/07 11:35:54.000.364,=D:\Software\Tests\IOTA\iORM.DT.ViewModel.Wizard.pas</Transaction>
+    <Transaction>2024/07/07 11:35:54.000.292,=D:\Software\Tests\IOTA\iORM.DT.ViewModel.Wizard.Creator.pas</Transaction>
+    <Transaction>2024/07/07 11:35:54.000.463,=D:\Software\Tests\IOTA\iORM.DT.Wizard.Utils.pas</Transaction>
+    <Transaction>2024/07/07 11:36:39.000.343,=designide.dcp</Transaction>
+    <Transaction>2024/07/07 11:37:10.000.454,=D:\Software\Tests\IOTA\iORM.DT.Register.pas</Transaction>
+    <Transaction>2024/07/07 11:44:14.000.666,D:\Software\Tests\IOTA\iORM.Components.InterfacedDataModule.pas=D:\Software\Tests\IOTA\S4YComponents.InterfacedDataModule.pas</Transaction>
+    <Transaction>2024/07/07 11:44:19.000.187,D:\Software\Tests\IOTA\iORM.DT.Register.pas=D:\Software\Tests\IOTA\S4Y.DT.Register.pas</Transaction>
+    <Transaction>2024/07/07 11:44:23.000.442,D:\Software\Tests\IOTA\iORM.DT.ViewModel.Wizard.Creator.pas=D:\Software\Tests\IOTA\S4Y.DT.ViewModel.Wizard.Creator.pas</Transaction>
+    <Transaction>2024/07/07 11:44:27.000.662,D:\Software\Tests\IOTA\iORM.DT.ViewModel.Wizard.pas=D:\Software\Tests\IOTA\S4Y.DT.ViewModel.Wizard.pas</Transaction>
+    <Transaction>2024/07/07 11:44:31.000.909,D:\Software\Tests\IOTA\iORM.DT.Wizard.Utils.pas=D:\Software\Tests\IOTA\S4Y.DT.Wizard.Utils.pas</Transaction>
+    <Transaction>2024/07/07 11:44:36.000.599,D:\Software\Tests\IOTA\iORM.MVVM.ViewModel.pas=D:\Software\Tests\IOTA\S4Y.MVVM.ViewModel.pas</Transaction>
+    <Transaction>2024/07/07 11:45:50.000.619,D:\Software\Tests\IOTA\S4YComponents.InterfacedDataModule.pas=D:\Software\Tests\IOTA\S4Y.Components.InterfacedDataModule.pas</Transaction>
+    <Transaction>2024/07/12 21:10:27.000.250,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.Components.InterfacedDataModule.pas=</Transaction>
+    <Transaction>2024/07/13 12:05:24.000.810,C:\Users\mauriziodelmagno\Desktop\IOTA\Soft4You.IOTA.dproj=C:\Users\mauriziodelmagno\Desktop\IOTA\MyDataModuleDT.dproj</Transaction>
+    <Transaction>2024/07/13 12:06:19.000.108,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.MVVM.ViewModel.pas=C:\Users\mauriziodelmagno\Desktop\IOTA\U.MyDataModule.pas</Transaction>
+    <Transaction>2024/07/13 12:07:49.000.036,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.DT.Register.pas=C:\Users\mauriziodelmagno\Desktop\IOTA\DT.Register.pas</Transaction>
+    <Transaction>2024/07/13 12:11:12.000.507,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.DT.ViewModel.Wizard.Creator.pas=C:\Users\mauriziodelmagno\Desktop\IOTA\DT.MyDataModule.Wizard.Creator.pas</Transaction>
+    <Transaction>2024/07/13 12:14:42.000.746,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.DT.ViewModel.Wizard.pas=C:\Users\mauriziodelmagno\Desktop\IOTA\DT.MyDatamodule.Wizard.pas</Transaction>
+    <Transaction>2024/07/13 12:15:40.000.920,C:\Users\mauriziodelmagno\Desktop\IOTA\S4Y.DT.Wizard.Utils.pas=C:\Users\mauriziodelmagno\Desktop\IOTA\DT.Wizard.Utils.pas</Transaction>
+  </Transactions>
+</BorlandProject>
